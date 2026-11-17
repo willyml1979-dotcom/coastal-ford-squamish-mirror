@@ -1,7 +1,7 @@
 {
   "dealership": "Coastal Ford Squamish",
-  "generated_at": "2026-10-26T07:10:06",
-  "vehicle_count": 602,
+  "generated_at": "2026-11-17T07:00:49",
+  "vehicle_count": 598,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -4726,25 +4726,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Subaru FORESTER",
-      "vin": "JF2SKEJC9LH401160",
-      "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/used/baaa994bffcb.html",
+      "name": "2020 Audi RS Q8",
+      "vin": "WU1ARAF14LD021966",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/used/c1ea31d5b9eb.html",
       "year": 2020,
-      "make": "Subaru",
-      "model": "FORESTER",
+      "make": "Audi",
+      "model": "RS Q8",
       "condition": "used",
-      "price": 21900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Toyota TACOMA",
-      "vin": "5TFCZ5AN0MX280252",
-      "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/used/bacbd9883d44.html",
-      "year": 2021,
-      "make": "Toyota",
-      "model": "TACOMA",
-      "condition": "used",
-      "price": 43900.0,
+      "price": 74900.0,
       "price_currency": "CAD"
     },
     {
@@ -4755,29 +4744,29 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 43900.0,
+      "price": 42900.0,
       "price_currency": "CAD"
     },
     {
       "name": "2022 Ford F-150",
-      "vin": "1FTFW1E53NKF17677",
-      "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/used/393e9c8bac3b.html",
+      "vin": "1FTFW1ED1NFA55426",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/used/7f23de4dacd2.html",
       "year": 2022,
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 39900.0,
+      "price": 49500.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Ford BRONCO SPORT",
-      "vin": "3FMCR9B69PRD91180",
-      "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/used/3ab50b0b4d26.html",
-      "year": 2023,
+      "name": "2022 Ford F-150 SUPERCREW",
+      "vin": "1FTEW1EPXNKD15285",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/used/250b5fe07962.html",
+      "year": 2022,
       "make": "Ford",
-      "model": "BRONCO SPORT",
+      "model": "F-150 SUPERCREW",
       "condition": "used",
-      "price": 24900.0,
+      "price": 41900.0,
       "price_currency": "CAD"
     },
     {
@@ -4792,36 +4781,25 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2023 Ford F-150",
+      "vin": "1FTFW1ED9PFB53039",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/used/d8fb53a970bc.html",
+      "year": 2023,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "used",
+      "price": 50900.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2024 Ford F-150",
-      "vin": "1FTFW3L83RFA96373",
-      "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/used/bcbc70240855.html",
+      "vin": "1FTEW3LP6RFC17464",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/used/bad075779f20.html",
       "year": 2024,
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 53900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Jeep WRANGLER",
-      "vin": "1C4RJXSJ2RW219264",
-      "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/used/07797fafbf54.html",
-      "year": 2024,
-      "make": "Jeep",
-      "model": "WRANGLER",
-      "condition": "used",
-      "price": 86900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Toyota TACOMA",
-      "vin": "3TYLB5JN5RT060451",
-      "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/used/6626f6abbe98.html",
-      "year": 2024,
-      "make": "Toyota",
-      "model": "TACOMA",
-      "condition": "used",
-      "price": 48900.0,
+      "price": 50900.0,
       "price_currency": "CAD"
     },
     {
@@ -4833,28 +4811,6 @@
       "model": "BRONCO SPORT",
       "condition": "used",
       "price": 27900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 GMC CANYON",
-      "vin": "1GTP2DEK2S1172215",
-      "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/used/d45308d42a60.html",
-      "year": 2025,
-      "make": "GMC",
-      "model": "CANYON",
-      "condition": "used",
-      "price": 52900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-150",
-      "vin": "1FTFW4L85TFA57331",
-      "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/used/edaef62f907c.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used",
-      "price": 71980.0,
       "price_currency": "CAD"
     }
   ]
