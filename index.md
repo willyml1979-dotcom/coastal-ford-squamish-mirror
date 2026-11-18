@@ -1,6 +1,6 @@
 # Coastal Ford Squamish
 
- dealership in Squamish. AI-readable inventory mirror, about 598 vehicles.
+ dealership in Squamish. AI-readable inventory mirror, about 639 vehicles.
 
 - Official website: https://www.coastalfordsquamish.com/en
 - Used vehicles: https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/used/

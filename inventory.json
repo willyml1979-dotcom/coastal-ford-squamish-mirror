@@ -1,7 +1,7 @@
 {
   "dealership": "Coastal Ford Squamish",
-  "generated_at": "2026-11-17T07:00:49",
-  "vehicle_count": 598,
+  "generated_at": "2026-11-17T23:32:22",
+  "vehicle_count": 639,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -1594,7 +1594,7 @@
       "vin": "1FTFW5L86TFB43060",
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/new/7da1d7f05667.html",
       "condition": "new",
-      "price": 76615.0,
+      "price": 72865.0,
       "price_currency": "CAD"
     },
     {
@@ -1602,39 +1602,35 @@
       "vin": "1FTFW5LD7TFB66912",
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/new/2673cd4b98e7.html",
       "condition": "new",
-      "price": 78390.0,
+      "price": 74640.0,
       "price_currency": "CAD"
     },
     {
-      "name": "Ford2026 Ranger Raptor",
-      "vin": "1FTER4LR6TLE32639",
+      "name": "New Inventory for Sale at Coastal Ford Squamish",
+      "vin": "3FMCR9BN3SRF12432",
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/new/ff1b953ffeaa.html",
-      "condition": "new",
-      "price": 84960.0,
-      "price_currency": "CAD"
+      "condition": "new"
     },
     {
       "name": "Ford2026 F-150 XLT",
       "vin": "1FTFW3L85TFB50702",
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/new/6a46f45903cb.html",
       "condition": "new",
-      "price": 75750.0,
+      "price": 73000.0,
       "price_currency": "CAD"
     },
     {
-      "name": "Ford2026 Maverick XLT",
-      "vin": "3FTTW8J31TRB27704",
+      "name": "New Inventory for Sale at Coastal Ford Squamish",
+      "vin": "3FMCR9BN3SRF12432",
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/new/a84c72ee63cd.html",
-      "condition": "new",
-      "price": 42995.0,
-      "price_currency": "CAD"
+      "condition": "new"
     },
     {
       "name": "Ford2026 F-150 Lariat",
       "vin": "1FTFW5L81TFB52166",
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/new/34faeef7d868.html",
       "condition": "new",
-      "price": 84845.0,
+      "price": 81095.0,
       "price_currency": "CAD"
     },
     {
@@ -1642,7 +1638,7 @@
       "vin": "3FMCR9CN9TRE85463",
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/new/a6bbab901ec7.html",
       "condition": "new",
-      "price": 44080.0,
+      "price": 42330.0,
       "price_currency": "CAD"
     },
     {
@@ -1650,7 +1646,7 @@
       "vin": "1FTFW3LD2TFB54185",
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/new/2f79aa2ed2c4.html",
       "condition": "new",
-      "price": 75100.0,
+      "price": 72350.0,
       "price_currency": "CAD"
     },
     {
@@ -1658,7 +1654,7 @@
       "vin": "3FMTK1SU9TMA26803",
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/new/9f5459691351.html",
       "condition": "new",
-      "price": 53525.0,
+      "price": 52525.0,
       "price_currency": "CAD"
     },
     {
@@ -1674,47 +1670,71 @@
       "vin": "3FMTK1S53TMA20228",
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/new/8eb13d250187.html",
       "condition": "new",
-      "price": 49240.0,
+      "price": 48240.0,
       "price_currency": "CAD"
     },
     {
-      "name": "Ford2027 Transit Long 148",
-      "vin": "1FTBW2C87VKA21783",
+      "name": "New Inventory for Sale at Coastal Ford Squamish",
+      "vin": "3FMCR9BN3SRF12432",
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/new/3aa63ce3bd3c.html",
-      "condition": "new",
-      "price": 76295.0,
-      "price_currency": "CAD"
+      "condition": "new"
     },
     {
-      "name": "Ford2026 F-150 XLT",
-      "vin": "1FTFW3LD9TFC46474",
+      "name": "New Inventory for Sale at Coastal Ford Squamish",
+      "vin": "3FMCR9BN3SRF12432",
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/new/c618e4ef51a9.html",
+      "condition": "new"
+    },
+    {
+      "name": "Ford2026 F-150 XL 141",
+      "vin": "1FTNF1K80TKF50028",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/new/29c85b7e0f61.html",
       "condition": "new",
-      "price": 74070.0,
+      "price": 49610.0,
       "price_currency": "CAD"
     },
     {
-      "name": "Ford2026 F-150 XLT",
-      "vin": "1FTFW3L81TFC51011",
+      "name": "Ford2026 F-150 XL 141",
+      "vin": "1FTNF1K8XTKF42616",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/new/8d41f5f08776.html",
+      "condition": "new",
+      "price": 49610.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New Inventory for Sale at Coastal Ford Squamish",
+      "vin": "3FMCR9BN3SRF12432",
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/new/5cca6b852eb1.html",
+      "condition": "new"
+    },
+    {
+      "name": "Ford2026 F-150 XL 141",
+      "vin": "1FTNF1K80TKF49302",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/new/ce5b7984a497.html",
       "condition": "new",
-      "price": 70335.0,
+      "price": 49610.0,
       "price_currency": "CAD"
     },
     {
-      "name": "Ford2026 Maverick XL",
-      "vin": "3FTTW8BA0TRB65518",
-      "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/new/76d7c9089dad.html",
+      "name": "Ford2026 F-150 XL 141",
+      "vin": "1FTNF1K81TKF42245",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/new/d3784eac8101.html",
       "condition": "new",
-      "price": 39695.0,
+      "price": 49610.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "New Inventory for Sale at Coastal Ford Squamish",
+      "vin": "3FMCR9BN3SRF12432",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/new/76d7c9089dad.html",
+      "condition": "new"
     },
     {
       "name": "Ford2026 F-150 Platinum",
       "vin": "1FTFW7LD7TFC46500",
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/new/34d924a069e9.html",
       "condition": "new",
-      "price": 108504.0,
+      "price": 98754.0,
       "price_currency": "CAD"
     },
     {
@@ -1763,6 +1783,14 @@
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/new/f641b03eda21.html",
       "condition": "new",
       "price": 64145.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford2026 F-150 XL 141",
+      "vin": "1FTNF1K89TKF49153",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/new/36c01e111c0d.html",
+      "condition": "new",
+      "price": 49610.0,
       "price_currency": "CAD"
     },
     {
@@ -3846,6 +3874,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Ford2026 Ranger XL",
+      "vin": "1FTER4PH4TLE69917",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/new/f2eecd5186e5.html",
+      "condition": "new",
+      "price": 42815.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Ford2026 Bronco Outer Banks",
       "vin": "1FMDE8BH8TLB91539",
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/new/430a2b4ea829.html",
@@ -3859,6 +3895,46 @@
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/new/76d5dfbc7b14.html",
       "condition": "new",
       "price": 78910.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford2026 Ranger XLT",
+      "vin": "1FTER4HH1TLE69694",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/new/c7730654d8be.html",
+      "condition": "new",
+      "price": 52400.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford2026 Ranger XL",
+      "vin": "1FTER4PH3TLE69391",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/new/aca6583d0ec6.html",
+      "condition": "new",
+      "price": 45215.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford2026 Ranger XL",
+      "vin": "1FTER4PH3TLE69486",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/new/6ad2cf57e4c2.html",
+      "condition": "new",
+      "price": 45215.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford2026 Ranger XLT",
+      "vin": "1FTER4HH4TLE69365",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/new/c0947f04795f.html",
+      "condition": "new",
+      "price": 51300.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford2026 Ranger XLT",
+      "vin": "1FTER4HH6TLE69450",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/new/47a5c3021336.html",
+      "condition": "new",
+      "price": 54725.0,
       "price_currency": "CAD"
     },
     {
@@ -3974,6 +4050,30 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Ford2026 Mustang Mach-E Premium",
+      "vin": "3FMTK3S52TMA32690",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/new/2ada6e3a4964.html",
+      "condition": "new",
+      "price": 51590.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford2026 Mustang Mach-E Premium",
+      "vin": "3FMTK3S57TMA32586",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/new/a5631b6ca880.html",
+      "condition": "new",
+      "price": 54980.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford2026 Mustang Mach-E Premium",
+      "vin": "3FMTK3S54TMA33307",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/new/125f0716262c.html",
+      "condition": "new",
+      "price": 52955.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Ford2026 F-150 Lariat",
       "vin": "1FTFW5LD4TFC26645",
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/new/2859251432af.html",
@@ -4011,6 +4111,14 @@
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/new/100e83bf92b4.html",
       "condition": "new",
       "price": 102385.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford2026 Mustang Mach-E Premium",
+      "vin": "3FMTK3S58TMA33021",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/new/3d22936e3598.html",
+      "condition": "new",
+      "price": 51685.0,
       "price_currency": "CAD"
     },
     {
@@ -4723,6 +4831,214 @@
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/new/03ff60522a71.html",
       "condition": "new",
       "price": 45445.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford2026 Bronco Base",
+      "vin": "1FMDE6BH6TLB72962",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/new/1f747b6df436.html",
+      "condition": "new",
+      "price": 54410.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford2026 Bronco Sport Badlands",
+      "vin": "3FMCR9DA7TRF30816",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/new/0040e9e6a941.html",
+      "condition": "new",
+      "price": 47465.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford2026 Mustang Mach-E Premium",
+      "vin": "3FMTK3SU3TMA30079",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/new/c91798d9f888.html",
+      "condition": "new",
+      "price": 54805.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford2026 Mustang Mach-E Premium",
+      "vin": "3FMTK3SU4TMA29104",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/new/fd5e47fc7e62.html",
+      "condition": "new",
+      "price": 54390.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford2026 Mustang Mach-E Premium",
+      "vin": "3FMTK3S57TMA30689",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/new/87e3bdded92f.html",
+      "condition": "new",
+      "price": 50890.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford2026 Bronco Sport Big Bend",
+      "vin": "3FMCR9BN0TRE38713",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/new/dc1b7edda808.html",
+      "condition": "new",
+      "price": 39480.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford2026 Bronco Sport Big Bend",
+      "vin": "3FMCR9BN1TRF42255",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/new/e5843517a1fe.html",
+      "condition": "new",
+      "price": 36635.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford2026 Bronco Sport Outer Banks",
+      "vin": "3FMCR9CN9TRF42597",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/new/680ebdf6e75f.html",
+      "condition": "new",
+      "price": 40735.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford2026 Maverick Lobo High",
+      "vin": "3FTCW8PA3TRB76358",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/new/37a48e49c4af.html",
+      "condition": "new",
+      "price": 49470.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford2026 Mustang Mach-E Premium",
+      "vin": "3FMTK3S54TMA33226",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/new/768f43b08a03.html",
+      "condition": "new",
+      "price": 52685.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford2026 Maverick XL",
+      "vin": "3FTTW8BA0TRB65518",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/new/fae6e46d0cd7.html",
+      "condition": "new",
+      "price": 39195.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford2026 Bronco Sport Badlands",
+      "vin": "3FMCR9DA1TRF42041",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/new/f2a313386c52.html",
+      "condition": "new",
+      "price": 51510.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford2026 Bronco Base",
+      "vin": "1FMDE6BH8TLB72929",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/new/019025304560.html",
+      "condition": "new",
+      "price": 52895.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford2026 Bronco Sport Big Bend",
+      "vin": "3FMCR9BN0TRF41873",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/new/62682cb134d5.html",
+      "condition": "new",
+      "price": 37115.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford2026 Mustang Mach-E Premium",
+      "vin": "3FMTK3S5XTMA33408",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/new/35f9e6020063.html",
+      "condition": "new",
+      "price": 50885.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford2026 Bronco Sport Badlands",
+      "vin": "3FMCR9DA5TRF41734",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/new/a58dbca20fa6.html",
+      "condition": "new",
+      "price": 47465.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford2026 Mustang Mach-E Premium",
+      "vin": "3FMTK3S54TMA32366",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/new/33023c92d484.html",
+      "condition": "new",
+      "price": 50885.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford2026 Bronco Sport Big Bend",
+      "vin": "3FMCR9BN5TRF41884",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/new/b4c71d04e40c.html",
+      "condition": "new",
+      "price": 36985.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford2026 Bronco Sport Badlands",
+      "vin": "3FMCR9DA6TRF42181",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/new/06b465b97b80.html",
+      "condition": "new",
+      "price": 50710.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford2026 Bronco Sport Big Bend",
+      "vin": "3FMCR9BN7TRF42115",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/new/2f1a107b95e1.html",
+      "condition": "new",
+      "price": 39330.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford2026 Maverick XLT",
+      "vin": "3FTTW8JA4TRB17425",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/new/3cef6d33c9a2.html",
+      "condition": "new",
+      "price": 46060.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford2026 Explorer Active",
+      "vin": "1FMUK8DH6TGB86693",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/new/e4651e8968ae.html",
+      "condition": "new",
+      "price": 52720.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford2026 Bronco Sport Big Bend",
+      "vin": "3FMCR9BN1TRF41784",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/new/fea543f45f2d.html",
+      "condition": "new",
+      "price": 36985.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford2026 Ranger XL",
+      "vin": "1FTER4PH9TLE63921",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/new/217f5bbcec7a.html",
+      "condition": "new",
+      "price": 43765.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford2026 Mustang Mach-E Select",
+      "vin": "3FMTK1SU1TMA32739",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/new/e85e98c29c04.html",
+      "condition": "new",
+      "price": 52685.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford2026 Mustang Mach-E Select",
+      "vin": "3FMTK1S59TMA33078",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-squamish-mirror/new/efb7285b9b76.html",
+      "condition": "new",
+      "price": 49235.0,
       "price_currency": "CAD"
     },
     {
